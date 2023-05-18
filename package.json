@@ -1,0 +1,19 @@
+{
+  "name": "mern-book-challenge",
+  "version": "1.0.0",
+  "description": "Module 21 ",
+  "main": "index.js",
+  "scripts": {
+    "test": "none"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jamessciacca/mern-book-challenge.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jamessciacca/mern-book-challenge/issues"
+  },
+  "homepage": "https://github.com/jamessciacca/mern-book-challenge#readme"
+}
