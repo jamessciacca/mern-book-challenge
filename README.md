@@ -24,7 +24,7 @@ Links below provide a functionality of webpage.
 
 ### Heroku
 
-[Book Engine APP Live Link](https://jate-pwa-application.herokuapp.com/)
+[Book Engine APP Live Link]([https://jate-pwa-application.herokuapp.com/])
 
 ## Credits
 * Assignment Code Provided by Rutgers Bootcamps.
